@@ -1,0 +1,1 @@
+This project optimizes the SVM hyperparameters using Harris Hawk Optimization. The code for HHO is hand coded by us. Please read the project report for a clear explanation of the workings of the code.
